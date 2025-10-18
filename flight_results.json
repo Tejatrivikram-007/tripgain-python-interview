@@ -1,0 +1,22 @@
+[
+    {
+        "airline": "IndiGo",
+        "flight_number": "6E-123",
+        "departure": "06:30",
+        "arrival": "09:10",
+        "price": "₹5,450",
+        "origin": "Bangalore",
+        "destination": "Delhi",
+        "searchdatetime": "2025-10-17T09:10:00Z"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-504",
+        "departure": "07:15",
+        "arrival": "09:55",
+        "price": "₹6,120",
+        "origin": "Bangalore",
+        "destination": "Delhi",
+        "searchdatetime": "2025-10-17T09:10:00Z"
+    }
+]

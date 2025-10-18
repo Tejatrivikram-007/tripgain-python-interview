@@ -1,0 +1,1 @@
+genai_key='AIzaSyBhkyHlvL0XloNWeOhxCgzvVfucOfet0Ms'
